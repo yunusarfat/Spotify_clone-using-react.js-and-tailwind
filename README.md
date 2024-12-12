@@ -1,11 +1,8 @@
 # Spotify Clone
+A fully responsive Spotify clone built using React.js, Tailwind CSS, and HTML5. This project replicates the UI and some features of the Spotify music platform, providing a seamless user experience with modern design practices.
 ![Screenshot (24)](https://github.com/user-attachments/assets/e14a2139-4b37-4df9-b213-f8ab3b294e9a)
 ![Screenshot (25)](https://github.com/user-attachments/assets/b8059527-efcb-48da-894f-4ce50ff6118d)
 ![Screenshot (26)](https://github.com/user-attachments/assets/9fa64e71-8db6-47d2-a64a-69a5923076ac)
-
-
-
-A fully responsive Spotify clone built using React.js, Tailwind CSS, and HTML5. This project replicates the UI and some features of the Spotify music platform, providing a seamless user experience with modern design practices.
 
 ## Features
 
